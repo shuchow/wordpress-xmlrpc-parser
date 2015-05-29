@@ -1,0 +1,21 @@
+{
+  "name": "shuchow/WordPressXMLRPCParser",
+  "description": "This class intercepts and parses the XML-RPC calls to WordPress.  Call it from WordPress' xmlrpc.php file.",
+  "license": "MIT",
+  "keywords": ["WordPress", "XML-RPC", "Parser"],
+  "authors": [
+    {
+      "name": "Shu-Wai Chow",
+      "email": "schow@alumni.rutgers.edu"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "4.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "shuchow\\WordPressXMLRPCParser\\": "src/"
+    }
+  }
+}
