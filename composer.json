@@ -1,5 +1,5 @@
 {
-  "name": "shuchow/WordPressXMLRPCParser",
+  "name": "shuchow/wordpress-xmlrpc-parser",
   "description": "This class intercepts and parses the XML-RPC calls to WordPress.  Call it from WordPress' xmlrpc.php file.",
   "license": "MIT",
   "keywords": ["WordPress", "XML-RPC", "Parser"],
